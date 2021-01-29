@@ -9,3 +9,8 @@ and Github in 2 hours!". See https://abhinary.com/gitting-started-gh for more
 details.
 
 All quotes are sourced from https://en.wikiquote.org
+# list of software developers
+
+- linus travalds
+- matrin flower
+-lary wall
