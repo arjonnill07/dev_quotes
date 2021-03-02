@@ -13,6 +13,6 @@ All quotes are sourced from https://en.wikiquote.org
 
 - linus travalds
 - matrin flower
--lary wall
--Alan kay
--Bjarne Stroustrup
+- lary wall
+- Alan kay
+- Bjarne Stroustrup
